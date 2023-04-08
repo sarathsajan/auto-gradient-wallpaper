@@ -2,6 +2,7 @@
 
 * Generate 4K gradient coloured wallpapers
 * Directly change the desktop wallpaper in a click
+* Generated image is also saved in the directory, both Sharp and Gaussian Blurred
 
 ### How to use
 
