@@ -1,0 +1,3 @@
+py-wallpaper
+
+mosaic of 6 cololoured squares and then blur them.
