@@ -5,10 +5,10 @@ import ctypes
 import os
 
 # larger number corresponds to smaller tile size
-tile_size = 3
+tile_size = 5
 BLOCK_HEIGHT = int(2160/tile_size)
 BLOCK_WIDTH = int(3840/tile_size)
-BLUR_STRENGTH = 250
+BLUR_STRENGTH = 500
 
 # color palette
 BLACK = (0, 0, 0)
@@ -39,11 +39,6 @@ block_choice = [
     black_block,
     white_block, 
     rgb_1_block, rgb_2_block, rgb_3_block, rgb_4_block, rgb_5_block, rgb_6_block,
-    rgb_1_block, rgb_2_block, rgb_3_block, rgb_4_block, rgb_5_block,
-    rgb_1_block, rgb_2_block, rgb_3_block, rgb_4_block,
-    rgb_1_block, rgb_2_block, rgb_3_block,
-    rgb_1_block, rgb_2_block,
-    rgb_1_block,
 ]
 
 block_list = []
