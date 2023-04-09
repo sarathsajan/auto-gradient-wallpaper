@@ -5,7 +5,7 @@ import ctypes
 import os
 
 # larger number corresponds to smaller tile size
-tile_size = 5
+tile_size = random.randint(2,8)
 BLOCK_HEIGHT = int(2160/tile_size)
 BLOCK_WIDTH = int(3840/tile_size)
 BLUR_STRENGTH = 500
