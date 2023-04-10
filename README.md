@@ -3,6 +3,7 @@
 * Generate 4K gradient coloured wallpapers
 * Directly change the desktop wallpaper in a click
 * Generated image is also saved in the directory, both Sharp and Gaussian Blurred
+* <img src="https://www.youtube.com/s/desktop/e9a67dcd/img/favicon.ico" width = 16px> [Demo on youtube](https://www.youtube.com/watch?v=P3KJboXtU04)
 
 ---
 
