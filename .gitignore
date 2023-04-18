@@ -135,3 +135,10 @@ price_data/
 statistics/
 env_vars/
 .bak
+!GradientWallpaperApp_Standalone/*
+!GradientWallpaperApp_Standalone/PIL/*
+!GradientWallpaperApp_Standalone/numpy/*
+!GradientWallpaperApp_Standalone/numpy/core/*
+!GradientWallpaperApp_Standalone/numpy/fft/*
+!GradientWallpaperApp_Standalone/numpy/linalg/*
+!GradientWallpaperApp_Standalone/numpy/random/*
